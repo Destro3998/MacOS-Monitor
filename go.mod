@@ -1,6 +1,6 @@
 module github.com/Destro3998/MacOS-Monitor
 
-go 1.22.2
+go 1.22
 
 // Dependencies
 require (
